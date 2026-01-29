@@ -10,6 +10,7 @@
 
     <div class="cabecera">
     <nav class="navbar navbar-expand-md navbar-light">
+    <a class="navbar-brand" href="home">Home</a>
         <button class="navbar-toggler" 
                 type="button" 
                 data-toggle="collapse" 
