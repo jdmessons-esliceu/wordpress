@@ -53,6 +53,22 @@ body{
     height: 480px;
 }
 
+.jumbo-front{
+    background-image: url(inc/img/shop.jpg);
+    background-repeat: no-repeat;
+}
+
 .jumbo-tienda{
     background-image: url(inc/img/shop.jpg);
+    background-repeat: no-repeat;
+}
+
+.jumbo-jeans{
+    background-image: url(inc/img/jeans2.jpg);
+    background-repeat: no-repeat;
+}
+
+.jumbo-camisetas{
+    background-image: url(inc/img/shirts.jpg);
+    background-repeat: no-repeat;
 }
