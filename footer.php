@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-6">
                 <p>Ve al inicio</p>
-                <a href="home">Tienda</a>
+                <a href="home">Home</a>
             </div>
             <div class="col-md-3">
             <?php
